@@ -1,0 +1,11 @@
+.container {
+    display: flex;
+  }
+  .half {
+    flex-basis: 50%;
+    overflow: hidden;
+  }
+  img {
+    width: 100%;
+    height: auto;
+  }
